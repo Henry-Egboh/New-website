@@ -7,9 +7,19 @@ letter-spacing: 1px;
 }
 /*===================HEADER SECTION===================================*/
 #head{
-    height: 35px;
+    height: 90px;
     /*border-top: 2px groove #2a2a2a;*/
-    margin: 2px;
+    /*font-size: 50px;*/
+}
+
+h1{
+    text-align: center;
+    margin: 0px;
+    position: relative;
+    top: 50%;
+    -webkit-transform:translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
 }
 
 h4.boldtext{
