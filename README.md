@@ -5,4 +5,4 @@ This is my sample website.
 This is where it all starts.
 
 ### Environment
-This demo website will eventually be an environmental management and safety website.it 
+This demo website will eventually be an environmental management and safety website.

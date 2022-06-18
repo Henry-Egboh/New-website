@@ -7,15 +7,27 @@ letter-spacing: 1px;
 }
 /*===================HEADER SECTION===================================*/
 #head{
-    height: 35px;
+    height: 90px;
     /*border-top: 2px groove #2a2a2a;*/
-    margin: 2px;
+    /*font-size: 50px;*/
+}
+
+h1{
+    text-align: center;
+    margin: 0px;
+    position: relative;
+    top: 50%;
+    -webkit-transform:translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
 }
 
 h4.boldtext{
-font: 700 16px Georgia, sans-serif, Cambria;
+font-size: 120%;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
 text-align: center;
-color: #110a0a;
+color: #235561;
+text-shadow: 0px 0px 2px 4px #212729;
 }
 
 #nav{
